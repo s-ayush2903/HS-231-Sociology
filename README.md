@@ -1,2 +1,2 @@
 # HS-231-Sociology
-Sociology Lecture Notes
+An attempt to take notes during online classes :sweat_smile:
