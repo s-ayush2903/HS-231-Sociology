@@ -1,6 +1,8 @@
 * Institutions: have a set of rules
 * Norms: A set of guidelines
 * Values: A generalized set of guidelines
+* August Comte coined the term _Sociology_.
+* Emile Durkheim(french) dicussed the subject matter of sociology.
 
 ## Charles Wright Mills- Sociological Imagination
 * That nigga was an american born in texas and a political sociologist and lit up the concept of _sociological imagination_.
@@ -34,6 +36,27 @@ structural society, institutional rules,
 * Good Sociology:- It needs good understanding of structure
 
 * Globalization is intensification of socialization
+
+## How to inculcate Socio-Imagination
+
+* A pre-req. for socio-imagination is an ability of a person to make distinctin between _personal trouble_ and _apublic issues_
+ * Personal trouble foucses on small group relations.
+  * It occurs when valur of an individual is threatened.
+  * Ex.: unemploylment, divorce.
+
+ * Public Troubles
+  * Affects a large amount of people.
+----left(to be done)
+
+### Relevance of Socio-Imagination
+* With sociological imag. an individual rises above his own miseries and sees them as a consequence of the changes taking place in the society as a whole
+* This makes him to desist from being a victim of self pity that may lead to self destructing tendencies, even suicide.
+* Socio imag. offers for development of _reflexivity_ facilitating to look at societ critically and identify its challenges and opportunities
+* Relevance->To understand our journey, about ourselves means you're not alone your parts are driven by sociol system and actions in which ouy're living
+* 
+
+* Durkheim wanted to make his country morally and politically strong via consolidation
+* He qwas against anarchy and social chaos and large part of his study dealt with social order .
 
 ### Info in socio
 * Right quality of mind!
