@@ -10,13 +10,13 @@
 * Its major question was **"HOW	the focus of an individual can be laid on a broader perspective of society and by what means?"**
 * For better quality of unserstanding of the society one needs to posses _the right quality of mind_ whic helps to look beyond the private sphere, to locate in the broader society.
 * This right quality of mind is called the Sociological Imagination
-* With the lafck of sociological imagination the society will disintegrate
+* With the lack of sociological imagination the society will disintegrate
 * He says our lives are traps it mean we ain't able to ...
 * It capacitates the required shift from one to another perspectives
 * ------Three essential questions---------
-(i) --What is the structure of the society?
-(ii) -Where does this society stand in human history?
-(iii) What kind of humans inhabit this society and if they have the ability to stand up to make it better?
+  * (i) --What is the structure of the society?
+  * (ii) -Where does this society stand in human history?
+  * (iii) What kind of humans inhabit this society and if they have the ability to stand up to make it better?
 * What promotes 
 * Adopt the innovative idea(if we have one); (i don't get it, without any claims and reliable proofs why should i believe)
 * It takes time to adopt the new idea, an instance is the time when earth was considered flat and there came a notion of round earth
@@ -38,24 +38,21 @@ structural society, institutional rules,
 * Globalization is intensification of socialization
 
 ## How to inculcate Socio-Imagination
-
 * A pre-req. for socio-imagination is an ability of a person to make distinctin between _personal trouble_ and _apublic issues_
  * Personal trouble foucses on small group relations.
-  * It occurs when valur of an individual is threatened.
-  * Ex.: unemploylment, divorce.
+   * It occurs when valur of an individual is threatened.
+   * Ex.: unemploylment, divorce.
 
  * Public Troubles
-  * Affects a large amount of people.
+   * Affects a large amount of people.
 ----left(to be done)
 
 ### Relevance of Socio-Imagination
 * With sociological imag. an individual rises above his own miseries and sees them as a consequence of the changes taking place in the society as a whole
 * This makes him to desist from being a victim of self pity that may lead to self destructing tendencies, even suicide.
-* Socio imag. offers for development of _reflexivity_ facilitating to look at societ critically and identify its challenges and opportunities
-* Relevance->To understand our journey, about ourselves means you're not alone your parts are driven by sociol system and actions in which ouy're living
-* 
-
-* Durkheim wanted to make his country morally and politically strong via consolidation
+* Socio imag. offers for development of _reflexivity_ facilitating to look at societ critically and identify its challenges and opportunities.
+* Relevance->To understand our journey, about ourselves means you're not alone your parts are driven by sociol system and actions in which ouy're living.
+* Durkheim wanted to make his country morally and politically strong via consolidation.
 * He qwas against anarchy and social chaos and large part of his study dealt with social order .
 
 ## Durkheim-IMP!
