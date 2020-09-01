@@ -58,7 +58,7 @@ structural society, institutional rules,
 * He was against chaos and discrimination.
 * Main area of his study was _Social Fact_.
 
-Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/new/master#durkheims-contributions)!
+Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/blob/master/Notes/Durk.md#durkheims-contributions)!
 
 ### Info in socio
 * Right quality of mind!
