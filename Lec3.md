@@ -66,6 +66,8 @@ structural society, institutional rules,
 ## Durkheim's Contributions
 * Great prolific writer.
 * Wrote: _The division of labour in society_, _The rules of sociological method_, _Suicide(1897)_, _The elementary form of Religious Life(1912)_.
+* His work ensure d that a separate place of Sociology as an independent discipline dute ot which during 1898 he setup a scholarly journal called _L'annee Sociologiqie_ which in course of time became successfull in promoting the Duekheimian brand of sociology to other school and academics.
+* Due to his disciples, sociology advancedd in stature and has begun widely accepted in France as a distincitve discipline.
 
 ### Division of Labour-Durk's idea
 * The division of labour in society was durkheims's doctoral thesis where he rejected Farwin's idea(the idea of _Survival of the Fittest_) that once the size of human population increases, there will be struggle for existence.
@@ -83,6 +85,8 @@ structural society, institutional rules,
 * Solidarity of resemblance.
 * Individual labority wasn't present.
 * Characterized by _repressive laws_ as crime is regarded as an offence against common conscience.
+* Society is in the individual.
+* Similar to simple organism or machine: inidividuals are mostly functionally equivalent and substitutable.
 
 ### Organic Solidarity(Modern-traits)
 * Develops out of difference rather than lkeness among hte members of the modern societies.
@@ -92,7 +96,8 @@ structural society, institutional rules,
 * It is like _live and let live_. A network of relations.
 * Characterized by weaking of collective conscience and _Restitutive law_.
 * Purpose of law here is to teach a person the right unlike the mech. solidarity's repressive laws.
-
+* The individual is in the society.
+* Similar to complex organisms, organs ain't interchangeable.
 
 ### Info in socio
 * Right quality of mind!
