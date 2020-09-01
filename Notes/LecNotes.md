@@ -27,14 +27,13 @@
 * It requires a shift from one perspective to another perspective
 * Three essential questions:
 structural society, institutional rules,
-
 * A Very nice instance of it is provided in the movie- Tare Zameen Par, the teacher's perspective is something that demonstrates socio imag. as everyone before the entry of teacher is ignoring the child and considering and treating him as retarded and the teacher creates the difference
 * We must understand where our society stands in history and civilization
 * With a little persistence you can create a difference!
 
 
-* Good Sociology:- It needs good understanding of structure
 
+* Good Sociology:- It needs good understanding of structure
 * Globalization is intensification of socialization
 
 ## How to inculcate Socio-Imagination
@@ -63,7 +62,7 @@ structural society, institutional rules,
 * He was against chaos and discrimination.
 * Main area of his study was _Social Fact_.
 
-Read more about Durk here!
+Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/new/master#durkheims-contributions)!
 
 ### Info in socio
 * Right quality of mind!
