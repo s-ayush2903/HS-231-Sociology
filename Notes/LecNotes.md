@@ -22,7 +22,6 @@
 * It takes time to adopt the new idea, an instance is the time when earth was considered flat and there came a notion of round earth
 
 ----What i concluded in the class (and prof said) ITS ALL ABOUT PERSPECTIVE!-----
-
 * It(socio-imagination) is about developing the right quality of mind that helps in looking out of private sphere
 * It requires a shift from one perspective to another perspective
 * Three essential questions:
@@ -30,9 +29,6 @@ structural society, institutional rules,
 * A Very nice instance of it is provided in the movie- Tare Zameen Par, the teacher's perspective is something that demonstrates socio imag. as everyone before the entry of teacher is ignoring the child and considering and treating him as retarded and the teacher creates the difference
 * We must understand where our society stands in history and civilization
 * With a little persistence you can create a difference!
-
-
-
 * Good Sociology:- It needs good understanding of structure
 * Globalization is intensification of socialization
 
@@ -68,5 +64,5 @@ Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/new/
 * Right quality of mind!
 
 ### TODOs
-* I don't get the meaning of CONJECTURE :(
-* Learn about _Norms_ & _Rules_.
+- [x] I don't get the meaning of CONJECTURE
+- [ ] Learn about _Norms_ & _Rules_.
