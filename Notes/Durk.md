@@ -33,3 +33,63 @@
 * Purpose of law here is to teach a person the right unlike the mech. solidarity's repressive laws.
 * The individual is in the society.
 * Similar to complex organisms, organs ain't interchangeable.
+
+### The Rules of Sociological Method(Book by Durk 1895)
+* His second book _The Rules of Sociological Method(1895)_ defined sociology as teh study of social facts, which are actions of society(a/c to durk).
+* Social facts do not originiate in the individual but in the ccollectiviy , in the collective mind.
+* He was particularly interested in shpwinfg that function of social fact is moral. Social Institutio work to produce the great.
+
+
+**Social Facts:** 
+* Values, cult norms and social structures that transcend the individual and can exercise social control.
+* These are external to an individual, means constrained to the individual and show property of generalizability.
+* What is a social fact in one cult can be abhorrently srtange in another; by keeping in mind how society influences your beliefs, you can temper your reactions to what is different.
+* Examples: Marriage, Language, Religion.
+
+### Suicide
+* Durk's understanding of social fact provided an emphasis in the study of _Suicide(1897)_.
+* Facts: Catholics < Pr.
+* ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
