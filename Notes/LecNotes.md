@@ -60,8 +60,17 @@ structural society, institutional rules,
 
 Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/blob/master/Notes/Durk.md#durkheims-contributions)!
 
+## Suicide
+* According to Durk, suicide is not an individual act nor a personal action. 
+* It is caused by some power which is over and above the individual or super individual. 
+* He viewed “all classes of deaths resulting directly or indirectly from the positive or negative acts of the victim itself who knows the result they produce” Having defined the phenomenon Durkheim dismisses the psychological explanation. 
+* Many doctors and psychologists develop the theory that majority of people who take their own life are in a pathological state, but Durkheim emphasises that the force, which determines the suicide, is not psychological but social. 
+* He concludes that suicide is the result of social dis-organisation or lack of social integration or social solidarity.
+* Based on many societies and cult, he identified four main types of suicide.
+* Read more about 'em [here](./Suicide.md)
 ### Info in socio
 * Right quality of mind!
+
 
 ### TODOs
 - [x] I don't get the meaning of CONJECTURE

@@ -46,12 +46,16 @@
 * What is a social fact in one cult can be abhorrently srtange in another; by keeping in mind how society influences your beliefs, you can temper your reactions to what is different.
 * Examples: Marriage, Language, Religion.
 
-### Suicide
+### Suicide(1897)
 * Durk's understanding of social fact provided an emphasis in the study of _Suicide(1897)_.
-* Facts: Catholics < Pr.
-* ;
+* Fact: Suicide rate of _Catholics_ was lesser than that of _Protestants_!
+* Read more about Durk's ideology on suicide [here](./Suicide.md).
 
-
+### The Elementary Forms of Religious Life(1912)
+* His last major book(the aforementioned), is often regarded as the most profound and the most original of his works.
+* It contains description and detailed analysis of the clan system and totemism in the Arunta tribe of Australian aborigines.
+* He elaborates a general form of religion derived from the study of the simplest and most primitive religious insitution.
+* Read more about it [here](./DurkAndReligion.md)
 
 
 
