@@ -9,15 +9,16 @@
 * It embraces those ideas, persons, practices, things that are everyday attitude of commonness, utility and familiarity.
 * THe unholy or profane is believed to contaminate the holy or sacred.
 * It is perceived that the sacred symbol of religious belief and practices refer, not to the external environment oe to individual human nature but only to the moral reality of society.
+* Aforementioned redirects [here](https://www.yourarticlelibrary.com/sociology/the-durkheims-sociology-of-religion-and-its-function/43749).
 
 ## Totemism
 * A/c to Durk, _Totem_ refers to an implicit belief in a mysterious or sacred force or principle that provides sanction for violation of taboos.
 * It inculcates moral responsibility in the group and animates the totem itself/
-* Totemism is the religion, not of certain animals or of certain man or of certain images, but a kind of anonymous force.
-* In his analysis and findings of religion among Arunta tribes of Australisan aborigines, instead of other form of religion like _Animisn_ and _Naturism_.
+* [Totemism](https://www.britannica.com/topic/totemism-religion) is the religion, not of certain animals or of certain man or of certain images, but a kind of anonymous force.
+* In his analysis and findings of religion among Arunta tribes of [Australisan aborigines](https://www.google.com/search?channel=fs&client=ubuntu&q=aborigines), instead of other form of religion like [_Animism_](https://www.google.com/search?channel=fs&client=ubuntu&q=animisn) and [_Naturism_](https://www.catholic.com/encyclopedia/naturism).
 * Durk took _Totemism_ as the key concept to explain the origin of religion.
 * Durk believed that he resolved the religious-moral dilemma of modern society. If religion is nothing but an indirect worship of society, the modern civilizations only need to express their religious sentiments directly towards the sacred symbolization of society.
 * He believed that the society has divinized religion. 
 * He stated that dieties that men worship together are only projection of power of society.
-* Therefore, religious as a social instution serves to give meaning to man's existential predicaments.
+* Therefore, religious as a social instution serves to give meaning to man's existential [predicaments](https://www.google.com/search?channel=fs&client=ubuntu&q=predicament).
 
