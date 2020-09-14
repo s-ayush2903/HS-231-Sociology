@@ -52,8 +52,8 @@
 * Read more about Durk's ideology on suicide [here](./Suicide.md).
 
 ### The Elementary Forms of Religious Life(1912)
-* His last major book(the aforementioned), is often regarded as the most profound and the most original of his works.
-* It contains description and detailed analysis of the clan system and totemism in the Arunta tribe of Australian aborigines.
+* His last major book(the aforementioned(the heading)), is often regarded as the most profound and the most original of his works.
+* It contains description and detailed analysis of the clan system and totemism in the Arunta tribe of [Australian aborigines](https://www.google.com/search?channel=fs&client=ubuntu&q=aborigines).
 * He elaborates a general form of religion derived from the study of the simplest and most primitive religious insitution.
 * Read more about it [here](./DurkAndReligion.md)
 
