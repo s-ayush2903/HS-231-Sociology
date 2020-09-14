@@ -68,8 +68,32 @@ Read more about [Durk here](https://github.com/s-ayush2903/HS-231-Sociology/blob
 * He concludes that suicide is the result of social dis-organisation or lack of social integration or social solidarity.
 * Based on many societies and cult, he identified four main types of suicide.
 * Read more about 'em [here](./Suicide.md)
+
 ### Info in socio
 * Right quality of mind!
+* We never produce in isolation, we always produce in ..
+* land, labor, capital and techincal know-how are the means of production. 
+* Means of produtions are the basics of production.
+* Modes of production is how the means of production are related.
+* Mauryans had punch marked coins, it means that the money and economy ain't new;
+* In feudalism we don't have direct control over people like as that of we what we have in slavery. in feudalism we have landlords and tenants.
+* In Feudalism, the people who had land controlled/dominated others.
+* After feudalism we come to Capitalism, in which the people who had money controlled the system. 
+* In socialism, it is the state that controls everything.
+* Socialism, feudalism, Capitalism come under Primitives
+* In socialism state is organized for welfare of people, state is missionary, govt. is body.
+
+* Dialectics, materialistic dialectics, Hegel
+* Communitst Manifesto, The class struggle in france, das capital: Books by Marx
+* For marx, everything could be reduced to material base rather than the mind and its process.
+* kafala system
+
+
+
+
+
+
+
 
 
 ### TODOs
